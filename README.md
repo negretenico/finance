@@ -1,19 +1,30 @@
-# finance
-intro.py 
-  - is starting point
-  -shows how to plot data 
-  - shows basics of pandas
-next_steps.py 
-  -show cases uses of webscrapping 
-  - creates a DataAquasition class that will 
-    is used to gather data online
-   - creates multiple CSV files in your home directory
-   -Also combines data into one file
-   - vizualizes data
-next_steps_driver.py
-  - how we test DataAquasition class
-preprocessor.py
-  -process data that will be used and creates labels
-  -creates a way for use when to buy or sell stock
-  -extracts features from the data
-  -uses a voting classifier to predict wheen we should buy/sell/hold
+## finance
+
+#intro.py
+  <ul>
+  <ul>shows how to plot data <li>
+  <li>shows basics of pandas</li>
+  </ul>
+#next_steps.py 
+  
+  <ul>
+    <li>how cases uses of webscrapping </li>
+    <li>creates a DataAquasition class that will </li>
+    <li>is used to gather data online </li>
+   <li>reates multiple CSV files in your home directory </li>
+   <li>Also combines data into one file </li>
+  <li> vizualizes data </li>
+</ul>
+#next_steps_driver.py
+  <li>how we test DataAquasition class</li>
+#preprocessor.py
+
+<ul>
+  <li>process data that will be used and creates labels</li>
+  <li>creates a way for use when to buy or sell stock</li>
+  <li>extracts features from the data</li>
+  <li>uses a voting classifier to predict wheen we should buy/sell/hold</li>
+</ul>
+
+#preprocessor_driver.py
+<li> tests the preprocessor class </li>
